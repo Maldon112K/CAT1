@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='prog1.xsl'?>
+
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="prog1.xsd">
+<Employee>
+<ID>1</ID>
+<NAME>Maldon</NAME>
+<SALARY>60000</SALARY>
+<EMAIL>m@gmail.com</EMAIL>
+<MobNum>5654789652</MobNum>
+<Designation>intern</Designation>
+<AGE>21</AGE>
+<Promotion>Developer</Promotion>
+  </Employee>
+  <Employee>
+<ID>2</ID>
+<NAME>Alex</NAME>
+<SALARY>70000</SALARY>
+<EMAIL>a@gmail.com</EMAIL>
+<MobNum>5475896565</MobNum>
+<Designation>employee</Designation>
+<AGE>55</AGE>
+   
+<Promotion>Manager</Promotion>
+  </Employee>
+  <Employee>
+<ID>3</ID>
+<NAME>Ash</NAME>
+<SALARY>50000</SALARY>
+<EMAIL>ash@gmail.com</EMAIL>
+<MobNum>2312546589</MobNum>
+<Designation>intern</Designation>
+<AGE>21</AGE>
+
+<Promotion>Developer</Promotion>
+
+  </Employee>
+  <Employee>
+<ID>4</ID>
+<NAME>Al</NAME>
+<SALARY>60000</SALARY>
+<EMAIL>al@gmail.com</EMAIL>
+<MobNum>6569868547</MobNum>
+<Designation>employee</Designation>
+<AGE>54</AGE>
+   
+<Promotion>Associate Project Manager</Promotion>
+
+  </Employee>
+  <Employee>
+<ID>5</ID>
+<NAME>Neon</NAME>
+<SALARY>80000</SALARY>
+<EMAIL>ns@gmail.com</EMAIL>
+<MobNum>5465898754</MobNum>
+<Designation>employee</Designation>
+<AGE>45</AGE>
+    
+<Promotion>Team Leader</Promotion>
+
+  </Employee>
+</Company>
+
